@@ -1,0 +1,21 @@
+record_id,archive_name,collection,record_title,archive_date,document_language,format_type,condition_score,historical_value_score,public_demand_score,language_rarity_score,digitization_cost_index,physical_risk_index,page_count,catalog_completeness_pct,metadata_quality_pct,digitization_status,storage_location
+PAR-001,Pune Municipal Archive,Civic Records,Property Assessment Register 1912,1912-06-18,Marathi,Bound Register,38,92,78,72,64,81,428,62,55,Not Digitized,Store A / Rack 04
+PAR-002,Pune Municipal Archive,Civic Records,Sanitation Committee Proceedings 1931,1931-02-14,English,Ledger,57,84,61,38,48,62,286,74,69,Partially Digitized,Store A / Rack 07
+PAR-003,State Public Archive,Administrative Records,Provincial Circular Register 1898,1898-11-03,English,Bound Volume,29,96,53,44,71,88,612,49,46,Not Digitized,Store B / Rack 02
+PAR-004,State Public Archive,Administrative Records,Revenue Department Correspondence 1924,1924-08-27,Marathi,File Bundle,44,89,66,76,58,79,354,57,61,Not Digitized,Store B / Rack 09
+PAR-005,University Archive,Academic Collections,College Annual Report 1946,1946-12-20,English,Booklet,68,81,72,31,36,45,164,88,82,Digitized,Reading Room Cabinet 03
+PAR-006,University Archive,Academic Collections,Early Science Society Minutes 1910,1910-04-09,English,Bound Minutes,51,94,69,36,55,67,238,71,63,Partially Digitized,Reading Room Cabinet 05
+PAR-007,Regional Language Archive,Literary Collections,Marathi Literary Society Letters 1922,1922-09-11,Marathi,Manuscript,34,95,86,91,62,84,196,54,52,Not Digitized,Cold Store 01 / Box 12
+PAR-008,Regional Language Archive,Literary Collections,Deccan Folk Song Transcriptions 1953,1953-03-22,Marathi,Notebook,47,90,74,88,51,71,212,63,58,Not Digitized,Cold Store 01 / Box 18
+PAR-009,Regional Language Archive,Photographic Collections,City Festival Glass Plates 1936,1936-10-06,Marathi,Glass Plate,23,93,81,70,77,94,96,46,43,Not Digitized,Photo Vault / Cabinet 02
+PAR-010,Transport Archive,Infrastructure Records,Early Tram Route Maps 1908,1908-01-29,English,Map Folder,42,91,79,35,69,83,132,59,57,Not Digitized,Map Store / Drawer 11
+PAR-011,Transport Archive,Infrastructure Records,Bridge Inspection Logs 1951,1951-07-15,English,Ledger,63,76,65,28,41,49,318,82,79,Partially Digitized,Map Store / Rack 03
+PAR-012,Public Health Archive,Health Administration,Public Dispensary Register 1939,1939-05-30,English,Register,36,88,84,32,58,86,504,51,49,Not Digitized,Health Archive / Rack 06
+PAR-013,Pune Municipal Archive,Planning Records,Old Town Development Plans 1940,1940-03-12,Marathi,Plan Sheets,31,97,91,82,73,89,74,43,47,Not Digitized,Store C / Flat File 01
+PAR-014,Pune Municipal Archive,Planning Records,Road Widening Survey Sheets 1962,1962-11-18,Marathi,Survey Sheets,59,73,88,61,39,55,148,79,73,Partially Digitized,Store C / Flat File 05
+PAR-015,State Public Archive,Legal Records,District Court Register 1917,1917-02-05,English,Bound Register,46,98,76,35,63,78,736,58,54,Not Digitized,Legal Vault / Rack 01
+PAR-016,State Public Archive,Legal Records,Notarial Deed Index 1934,1934-06-21,English,Index Volume,61,86,70,29,46,52,422,81,75,Digitized,Legal Vault / Rack 05
+PAR-017,Religious Heritage Archive,Community Collections,Festival Committee Records 1929,1929-09-17,Marathi,Ledger,39,87,64,93,54,77,264,60,56,Not Digitized,Heritage Store / Shelf 09
+PAR-018,Religious Heritage Archive,Community Collections,Temple Trust Correspondence 1905,1905-01-13,Marathi,Manuscript,28,94,58,96,68,91,178,48,45,Not Digitized,Heritage Store / Shelf 02
+PAR-019,University Archive,Photographic Collections,Campus Photographs 1938,1938-12-02,English,Photograph Album,55,83,89,30,52,64,118,76,71,Partially Digitized,Photo Room / Cabinet 04
+PAR-020,Public Health Archive,Medical History,Cholera Response Circulars 1919,1919-08-08,English,File Bundle,32,99,93,34,66,92,286,52,48,Not Digitized,Health Archive / Rack 02

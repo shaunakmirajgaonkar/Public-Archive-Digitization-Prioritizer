@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#eef4ff"/><stop offset=".5" stop-color="#f5f0ff"/><stop offset="1" stop-color="#effcf8"/></linearGradient></defs>
+<rect width="1200" height="360" rx="32" fill="url(#g)"/>
+<g transform="translate(90 70)">
+<rect x="0" y="30" width="250" height="190" rx="18" fill="#fff" stroke="#dfe7f4" stroke-width="4"/>
+<rect x="25" y="55" width="200" height="30" rx="8" fill="#4361ee" opacity=".15"/>
+<rect x="25" y="105" width="160" height="18" rx="6" fill="#dbe4f3"/>
+<rect x="25" y="137" width="180" height="18" rx="6" fill="#e7edf6"/>
+<rect x="25" y="169" width="120" height="18" rx="6" fill="#e7edf6"/>
+<path d="M55 0h140l35 30H20z" fill="#4361ee" opacity=".85"/>
+<circle cx="290" cy="45" r="28" fill="#18a66a" opacity=".18"/><path d="M280 45l8 8 15-18" fill="none" stroke="#18a66a" stroke-width="7" stroke-linecap="round"/>
+</g>
+<text x="430" y="150" font-family="Arial,sans-serif" font-size="42" font-weight="800" fill="#172033">PUBLIC ARCHIVE</text>
+<text x="430" y="205" font-family="Arial,sans-serif" font-size="30" fill="#667085">Digitization Prioritization Workspace</text>
+<text x="430" y="255" font-family="Arial,sans-serif" font-size="18" fill="#4361ee">LOCAL • TRANSPARENT • PRESERVATION-FOCUSED</text>
+</svg>
